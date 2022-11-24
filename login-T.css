@@ -120,7 +120,7 @@ section .color:nth-child(3) {
 }
 .from h2 {
   position: relative;
-  color: white;
+  color: gray;
   font-size: 24px;
   font-weight: 600;
   letter-spacing: 1px;
@@ -133,7 +133,7 @@ section .color:nth-child(3) {
   bottom: -10px;
   width: 80px;
   height: 4px;
-  background: white;
+  background: gray;
 }
 .from .inputBox {
   width: 100%;
@@ -151,11 +151,11 @@ section .color:nth-child(3) {
   border-bottom: 1px solid rgba(255, 255, 255, 0.2);
   font-size: 16px;
   letter-spacing: 1px;
-  color: white;
+  color: gray;
   box-shadow: 0 5px 15px rgba(0, 0, 0, 0.1);
 }
 .from .inputBox input::placeholder {
-  color: #fff;
+  color: gray;
 }
 .from .inputBox input[type="submit"] {
   background: #fff;
@@ -167,10 +167,10 @@ section .color:nth-child(3) {
 }
 .forget {
   margin-top: 5px;
-  color: white;
+  color: gray;
 }
 .forget a {
-  color: rgb(170, 240, 236);
+  color: rgb(8, 117, 190);
   font-weight: 600;
   text-decoration: none;
 }
